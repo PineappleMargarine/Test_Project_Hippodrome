@@ -1,0 +1,205 @@
+
+2022-08-22 22:31:44,834 ERROR Horse: Speed is negative
+2022-08-22 22:31:44,845 ERROR Horse: Speed is negative
+2022-08-22 22:31:44,846 ERROR Horse: Speed is negative
+2022-08-22 22:31:44,848 ERROR Horse: Speed is negative
+2022-08-22 22:31:44,851 ERROR Horse: Speed is negative
+2022-08-22 22:31:44,854 ERROR Horse: Speed is negative
+2022-08-22 22:31:44,856 ERROR Horse: Speed is negative
+2022-08-22 22:31:44,859 ERROR Horse: Speed is negative
+2022-08-22 22:31:44,861 ERROR Horse: Speed is negative
+2022-08-22 22:31:44,864 ERROR Horse: Speed is negative
+2022-08-22 22:31:44,869 ERROR Horse: Distance is negative
+2022-08-22 22:31:44,871 ERROR Horse: Distance is negative
+2022-08-22 22:31:44,872 ERROR Horse: Distance is negative
+2022-08-22 22:31:44,875 ERROR Horse: Distance is negative
+2022-08-22 22:31:44,877 ERROR Horse: Distance is negative
+2022-08-22 22:31:44,879 ERROR Horse: Distance is negative
+2022-08-22 22:31:44,882 ERROR Horse: Distance is negative
+2022-08-22 22:31:44,885 ERROR Horse: Distance is negative
+2022-08-22 22:31:44,887 ERROR Horse: Distance is negative
+2022-08-22 22:31:44,889 ERROR Horse: Distance is negative
+2022-08-22 22:31:44,894 ERROR Horse: Name is null
+2022-08-22 22:31:44,898 ERROR Horse: Speed is negative
+2022-08-22 22:31:44,902 ERROR Horse: Speed is negative
+2022-08-22 22:31:44,904 ERROR Horse: Speed is negative
+2022-08-22 22:31:44,906 ERROR Horse: Speed is negative
+2022-08-22 22:31:44,908 ERROR Horse: Speed is negative
+2022-08-22 22:31:44,910 ERROR Horse: Speed is negative
+2022-08-22 22:31:44,912 ERROR Horse: Speed is negative
+2022-08-22 22:31:44,914 ERROR Horse: Speed is negative
+2022-08-22 22:31:44,916 ERROR Horse: Speed is negative
+2022-08-22 22:31:44,918 ERROR Horse: Speed is negative
+2022-08-22 22:31:44,921 ERROR Horse: Distance is negative
+2022-08-22 22:31:44,923 ERROR Horse: Distance is negative
+2022-08-22 22:31:44,925 ERROR Horse: Distance is negative
+2022-08-22 22:31:44,927 ERROR Horse: Distance is negative
+2022-08-22 22:31:44,929 ERROR Horse: Distance is negative
+2022-08-22 22:31:44,931 ERROR Horse: Distance is negative
+2022-08-22 22:31:44,934 ERROR Horse: Distance is negative
+2022-08-22 22:31:44,936 ERROR Horse: Distance is negative
+2022-08-22 22:31:44,938 ERROR Horse: Distance is negative
+2022-08-22 22:31:44,940 ERROR Horse: Distance is negative
+2022-08-22 22:31:44,942 ERROR Horse: Name is null
+2022-08-22 22:31:44,946 ERROR Horse: Name is blank
+2022-08-22 22:31:44,948 ERROR Horse: Name is blank
+2022-08-22 22:31:44,950 ERROR Horse: Name is blank
+2022-08-22 22:31:44,951 ERROR Horse: Name is blank
+2022-08-22 22:31:44,953 ERROR Horse: Name is blank
+2022-08-22 22:31:44,955 ERROR Horse: Name is blank
+2022-08-22 22:31:44,956 ERROR Horse: Name is blank
+2022-08-22 22:31:44,958 ERROR Horse: Name is blank
+2022-08-22 22:31:44,960 ERROR Hippodrome: Horses list is empty
+2022-08-22 22:31:44,962 ERROR Hippodrome: Horses list is null
+2022-08-22 22:31:45,944 DEBUG Hippodrome: Создание Hippodrome, лошадей [7]
+2022-08-22 22:31:46,052 DEBUG Horse: Создание Horse, имя [0], скорость [0.0]
+2022-08-22 22:31:46,053 DEBUG Horse: Создание Horse, имя [1], скорость [1.0]
+2022-08-22 22:31:46,054 DEBUG Horse: Создание Horse, имя [2], скорость [2.0]
+2022-08-22 22:31:46,054 DEBUG Horse: Создание Horse, имя [3], скорость [3.0]
+2022-08-22 22:31:46,054 DEBUG Horse: Создание Horse, имя [4], скорость [4.0]
+2022-08-22 22:31:46,054 DEBUG Horse: Создание Horse, имя [5], скорость [5.0]
+2022-08-22 22:31:46,054 DEBUG Horse: Создание Horse, имя [6], скорость [6.0]
+2022-08-22 22:31:46,054 DEBUG Horse: Создание Horse, имя [7], скорость [7.0]
+2022-08-22 22:31:46,055 DEBUG Horse: Создание Horse, имя [8], скорость [8.0]
+2022-08-22 22:31:46,055 DEBUG Horse: Создание Horse, имя [9], скорость [9.0]
+2022-08-22 22:31:46,055 DEBUG Horse: Создание Horse, имя [10], скорость [10.0]
+2022-08-22 22:31:46,055 DEBUG Horse: Создание Horse, имя [11], скорость [11.0]
+2022-08-22 22:31:46,055 DEBUG Horse: Создание Horse, имя [12], скорость [12.0]
+2022-08-22 22:31:46,056 DEBUG Horse: Создание Horse, имя [13], скорость [13.0]
+2022-08-22 22:31:46,056 DEBUG Horse: Создание Horse, имя [14], скорость [14.0]
+2022-08-22 22:31:46,056 DEBUG Horse: Создание Horse, имя [15], скорость [15.0]
+2022-08-22 22:31:46,056 DEBUG Horse: Создание Horse, имя [16], скорость [16.0]
+2022-08-22 22:31:46,056 DEBUG Horse: Создание Horse, имя [17], скорость [17.0]
+2022-08-22 22:31:46,056 DEBUG Horse: Создание Horse, имя [18], скорость [18.0]
+2022-08-22 22:31:46,056 DEBUG Horse: Создание Horse, имя [19], скорость [19.0]
+2022-08-22 22:31:46,056 DEBUG Horse: Создание Horse, имя [20], скорость [20.0]
+2022-08-22 22:31:46,057 DEBUG Horse: Создание Horse, имя [21], скорость [21.0]
+2022-08-22 22:31:46,057 DEBUG Horse: Создание Horse, имя [22], скорость [22.0]
+2022-08-22 22:31:46,057 DEBUG Horse: Создание Horse, имя [23], скорость [23.0]
+2022-08-22 22:31:46,057 DEBUG Horse: Создание Horse, имя [24], скорость [24.0]
+2022-08-22 22:31:46,057 DEBUG Horse: Создание Horse, имя [25], скорость [25.0]
+2022-08-22 22:31:46,057 DEBUG Horse: Создание Horse, имя [26], скорость [26.0]
+2022-08-22 22:31:46,057 DEBUG Horse: Создание Horse, имя [27], скорость [27.0]
+2022-08-22 22:31:46,057 DEBUG Horse: Создание Horse, имя [28], скорость [28.0]
+2022-08-22 22:31:46,058 DEBUG Horse: Создание Horse, имя [29], скорость [29.0]
+2022-08-22 22:31:46,058 DEBUG Hippodrome: Создание Hippodrome, лошадей [7]
+2022-08-22 22:31:46,060 DEBUG Horse: Создание Horse, имя [Ann], скорость [2.0]
+2022-08-22 22:31:46,061 DEBUG Horse: Создание Horse, имя [Nasya], скорость [3.0]
+2022-08-22 22:31:46,061 DEBUG Hippodrome: Создание Hippodrome, лошадей [7]
+2022-08-22 22:31:46,069 ERROR Hippodrome: Horses list is empty
+2022-08-22 22:31:46,071 ERROR Hippodrome: Horses list is null
+2022-08-22 22:31:46,080 DEBUG Horse: Создание Horse, имя [Ann], скорость [443.0]
+2022-08-22 22:31:46,082 DEBUG Horse: Создание Horse, имя [Ann], скорость [1.0]
+2022-08-22 22:31:46,087 DEBUG Horse: Создание Horse, имя [Ann], скорость [1.0]
+2022-08-22 22:31:46,097 DEBUG Horse: Создание Horse, имя [Ann], скорость [1.0]
+2022-08-22 22:31:46,097 DEBUG Horse: Создание Horse, имя [Sara], скорость [1.0]
+2022-08-22 22:31:46,099 DEBUG Horse: Создание Horse, имя [Ann], скорость [2.0]
+2022-08-22 22:31:46,099 DEBUG Horse: Создание Horse, имя [Nasya], скорость [3.0]
+2022-08-22 22:31:46,099 DEBUG Hippodrome: Создание Hippodrome, лошадей [7]
+2022-08-22 22:32:14,948 ERROR Horse: Speed is negative
+2022-08-22 22:32:14,958 ERROR Horse: Speed is negative
+2022-08-22 22:32:14,960 ERROR Horse: Speed is negative
+2022-08-22 22:32:14,961 ERROR Horse: Speed is negative
+2022-08-22 22:32:14,963 ERROR Horse: Speed is negative
+2022-08-22 22:32:14,965 ERROR Horse: Speed is negative
+2022-08-22 22:32:14,967 ERROR Horse: Speed is negative
+2022-08-22 22:32:14,971 ERROR Horse: Speed is negative
+2022-08-22 22:32:14,973 ERROR Horse: Speed is negative
+2022-08-22 22:32:14,976 ERROR Horse: Speed is negative
+2022-08-22 22:32:14,979 ERROR Horse: Distance is negative
+2022-08-22 22:32:14,981 ERROR Horse: Distance is negative
+2022-08-22 22:32:14,983 ERROR Horse: Distance is negative
+2022-08-22 22:32:14,985 ERROR Horse: Distance is negative
+2022-08-22 22:32:14,987 ERROR Horse: Distance is negative
+2022-08-22 22:32:14,989 ERROR Horse: Distance is negative
+2022-08-22 22:32:14,991 ERROR Horse: Distance is negative
+2022-08-22 22:32:14,992 ERROR Horse: Distance is negative
+2022-08-22 22:32:14,994 ERROR Horse: Distance is negative
+2022-08-22 22:32:14,996 ERROR Horse: Distance is negative
+2022-08-22 22:32:15,001 ERROR Horse: Name is null
+2022-08-22 22:32:15,004 ERROR Horse: Speed is negative
+2022-08-22 22:32:15,008 ERROR Horse: Speed is negative
+2022-08-22 22:32:15,009 ERROR Horse: Speed is negative
+2022-08-22 22:32:15,011 ERROR Horse: Speed is negative
+2022-08-22 22:32:15,013 ERROR Horse: Speed is negative
+2022-08-22 22:32:15,015 ERROR Horse: Speed is negative
+2022-08-22 22:32:15,017 ERROR Horse: Speed is negative
+2022-08-22 22:32:15,019 ERROR Horse: Speed is negative
+2022-08-22 22:32:15,022 ERROR Horse: Speed is negative
+2022-08-22 22:32:15,023 ERROR Horse: Speed is negative
+2022-08-22 22:32:15,028 ERROR Horse: Distance is negative
+2022-08-22 22:32:15,030 ERROR Horse: Distance is negative
+2022-08-22 22:32:15,032 ERROR Horse: Distance is negative
+2022-08-22 22:32:15,034 ERROR Horse: Distance is negative
+2022-08-22 22:32:15,035 ERROR Horse: Distance is negative
+2022-08-22 22:32:15,037 ERROR Horse: Distance is negative
+2022-08-22 22:32:15,039 ERROR Horse: Distance is negative
+2022-08-22 22:32:15,040 ERROR Horse: Distance is negative
+2022-08-22 22:32:15,042 ERROR Horse: Distance is negative
+2022-08-22 22:32:15,044 ERROR Horse: Distance is negative
+2022-08-22 22:32:15,046 ERROR Horse: Name is null
+2022-08-22 22:32:15,050 ERROR Horse: Name is blank
+2022-08-22 22:32:15,052 ERROR Horse: Name is blank
+2022-08-22 22:32:15,054 ERROR Horse: Name is blank
+2022-08-22 22:32:15,056 ERROR Horse: Name is blank
+2022-08-22 22:32:15,057 ERROR Horse: Name is blank
+2022-08-22 22:32:15,060 ERROR Horse: Name is blank
+2022-08-22 22:32:15,062 ERROR Horse: Name is blank
+2022-08-22 22:32:15,065 ERROR Horse: Name is blank
+2022-08-22 22:32:15,070 ERROR Hippodrome: Horses list is empty
+2022-08-22 22:32:15,071 ERROR Hippodrome: Horses list is null
+2022-08-22 22:32:15,994 DEBUG Hippodrome: Создание Hippodrome, лошадей [7]
+2022-08-22 22:32:16,103 DEBUG Horse: Создание Horse, имя [0], скорость [0.0]
+2022-08-22 22:32:16,104 DEBUG Horse: Создание Horse, имя [1], скорость [1.0]
+2022-08-22 22:32:16,104 DEBUG Horse: Создание Horse, имя [2], скорость [2.0]
+2022-08-22 22:32:16,104 DEBUG Horse: Создание Horse, имя [3], скорость [3.0]
+2022-08-22 22:32:16,104 DEBUG Horse: Создание Horse, имя [4], скорость [4.0]
+2022-08-22 22:32:16,105 DEBUG Horse: Создание Horse, имя [5], скорость [5.0]
+2022-08-22 22:32:16,105 DEBUG Horse: Создание Horse, имя [6], скорость [6.0]
+2022-08-22 22:32:16,105 DEBUG Horse: Создание Horse, имя [7], скорость [7.0]
+2022-08-22 22:32:16,105 DEBUG Horse: Создание Horse, имя [8], скорость [8.0]
+2022-08-22 22:32:16,105 DEBUG Horse: Создание Horse, имя [9], скорость [9.0]
+2022-08-22 22:32:16,105 DEBUG Horse: Создание Horse, имя [10], скорость [10.0]
+2022-08-22 22:32:16,105 DEBUG Horse: Создание Horse, имя [11], скорость [11.0]
+2022-08-22 22:32:16,105 DEBUG Horse: Создание Horse, имя [12], скорость [12.0]
+2022-08-22 22:32:16,105 DEBUG Horse: Создание Horse, имя [13], скорость [13.0]
+2022-08-22 22:32:16,106 DEBUG Horse: Создание Horse, имя [14], скорость [14.0]
+2022-08-22 22:32:16,106 DEBUG Horse: Создание Horse, имя [15], скорость [15.0]
+2022-08-22 22:32:16,106 DEBUG Horse: Создание Horse, имя [16], скорость [16.0]
+2022-08-22 22:32:16,106 DEBUG Horse: Создание Horse, имя [17], скорость [17.0]
+2022-08-22 22:32:16,106 DEBUG Horse: Создание Horse, имя [18], скорость [18.0]
+2022-08-22 22:32:16,106 DEBUG Horse: Создание Horse, имя [19], скорость [19.0]
+2022-08-22 22:32:16,106 DEBUG Horse: Создание Horse, имя [20], скорость [20.0]
+2022-08-22 22:32:16,106 DEBUG Horse: Создание Horse, имя [21], скорость [21.0]
+2022-08-22 22:32:16,107 DEBUG Horse: Создание Horse, имя [22], скорость [22.0]
+2022-08-22 22:32:16,107 DEBUG Horse: Создание Horse, имя [23], скорость [23.0]
+2022-08-22 22:32:16,107 DEBUG Horse: Создание Horse, имя [24], скорость [24.0]
+2022-08-22 22:32:16,107 DEBUG Horse: Создание Horse, имя [25], скорость [25.0]
+2022-08-22 22:32:16,107 DEBUG Horse: Создание Horse, имя [26], скорость [26.0]
+2022-08-22 22:32:16,107 DEBUG Horse: Создание Horse, имя [27], скорость [27.0]
+2022-08-22 22:32:16,107 DEBUG Horse: Создание Horse, имя [28], скорость [28.0]
+2022-08-22 22:32:16,107 DEBUG Horse: Создание Horse, имя [29], скорость [29.0]
+2022-08-22 22:32:16,107 DEBUG Hippodrome: Создание Hippodrome, лошадей [7]
+2022-08-22 22:32:16,110 DEBUG Horse: Создание Horse, имя [Ann], скорость [2.0]
+2022-08-22 22:32:16,110 DEBUG Horse: Создание Horse, имя [Nasya], скорость [3.0]
+2022-08-22 22:32:16,110 DEBUG Hippodrome: Создание Hippodrome, лошадей [7]
+2022-08-22 22:32:16,115 ERROR Hippodrome: Horses list is empty
+2022-08-22 22:32:16,117 ERROR Hippodrome: Horses list is null
+2022-08-22 22:32:16,126 DEBUG Horse: Создание Horse, имя [Ann], скорость [443.0]
+2022-08-22 22:32:16,127 DEBUG Horse: Создание Horse, имя [Ann], скорость [1.0]
+2022-08-22 22:32:16,131 DEBUG Horse: Создание Horse, имя [Ann], скорость [1.0]
+2022-08-22 22:32:16,138 DEBUG Horse: Создание Horse, имя [Ann], скорость [1.0]
+2022-08-22 22:32:16,138 DEBUG Horse: Создание Horse, имя [Sara], скорость [1.0]
+2022-08-22 22:32:16,140 DEBUG Horse: Создание Horse, имя [Ann], скорость [2.0]
+2022-08-22 22:32:16,140 DEBUG Horse: Создание Horse, имя [Nasya], скорость [3.0]
+2022-08-22 22:32:16,140 DEBUG Hippodrome: Создание Hippodrome, лошадей [7]
+2022-08-22 22:32:20,652 DEBUG Horse: Создание Horse, имя [Буцефал], скорость [2.4]
+2022-08-22 22:32:20,656 DEBUG Horse: Создание Horse, имя [Туз Пик], скорость [2.5]
+2022-08-22 22:32:20,656 DEBUG Horse: Создание Horse, имя [Зефир], скорость [2.6]
+2022-08-22 22:32:20,656 DEBUG Horse: Создание Horse, имя [Пожар], скорость [2.7]
+2022-08-22 22:32:20,656 DEBUG Horse: Создание Horse, имя [Лобстер], скорость [2.8]
+2022-08-22 22:32:20,656 DEBUG Horse: Создание Horse, имя [Пегас], скорость [2.9]
+2022-08-22 22:32:20,657 DEBUG Horse: Создание Horse, имя [Вишня], скорость [3.0]
+2022-08-22 22:32:20,658 DEBUG Hippodrome: Создание Hippodrome, лошадей [7]
+2022-08-22 22:32:20,658 ERROR Main: Начало скачек. Количество участников: 7
+2022-08-22 22:32:23,706 ERROR Main: Окончание скачек. Победитель: Пожар
